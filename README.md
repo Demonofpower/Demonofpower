@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Code-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 
-![Discord](https://img.shields.io/badge/Discord-Paranoia%233819-blue?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-juli.gg-blue?style=for-the-badge&logo=discord&logoColor=white)
 
 
 ![CodeWars](https://www.codewars.com/users/love%20you/badges/large)
